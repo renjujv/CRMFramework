@@ -1,2 +1,3 @@
-/bin/
 /applog.txt
+/target/
+/.settings/
